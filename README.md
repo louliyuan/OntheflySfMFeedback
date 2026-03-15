@@ -2,6 +2,8 @@
 
 **On-the-fly Feedback SfM:** An Explore-and-Exploit Framework for Real-Time UAV Photogrammetry.
 
+[![arXiv](https://img.shields.io/badge/arXiv-2512.02375-b31b1b.svg)](https://arxiv.org/abs/2512.02375)
+
 ### Key Features
 
 * **Online coarse mesh generation** from incrementally expanding sparse point clouds.
@@ -57,4 +59,20 @@ Please strictly follow the order below to ensure correct dependency linking:
 * Feature
 * Workflow
 * UI
+
+## Citation
+
+If you find this work useful in your research, please consider citing:
+
+```bibtex
+@misc{lou2025ontheflyfeedbacksfm,
+  title={On-the-fly Feedback SfM: Online Explore-and-Exploit UAV Photogrammetry with Incremental Mesh Quality-Aware Indicator and Predictive Path Planning},
+  author={Liyuan Lou and Wanyun Li and Wentian Gan and Yifei Yu and Tengfei Wang and Xin Wang and Zongqian Zhan},
+  year={2025},
+  eprint={2512.02375},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
+  doi={10.48550/arXiv.2512.02375},
+  url={https://arxiv.org/abs/2512.02375}
+}
 
